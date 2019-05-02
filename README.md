@@ -7,7 +7,7 @@ _(adapted from [Step by step approach to perform data analysis in Python](https:
 >So you have decided to learn Python, but you don’t have prior programming experience. 
 >So you are confused on where to start, and how much Python to learn.
 >
-> These are some of the common questions a beginner has while getting started with Python(for data centric application):
+> These are some of the common questions a beginner has while getting started with Python (for data centric application):
 
 > * “How long does it take to learn Python”
 > * “How much Python should I learn for performing data analysis”
@@ -20,7 +20,7 @@ _(adapted from [Step by step approach to perform data analysis in Python](https:
 
 ### What do you need to get started
 
-Most people have the misconception that for performing data analysis in Python requires to be proficient in Python 
+Most people have the misconception that performing data analysis in Python requires to be proficient in Python 
 programming. 
 
 Coding is fun, but you don't *really* need to be a coding ninja in Python to do data analysis. 
@@ -31,7 +31,7 @@ share the code of your prototype or experiments on a public repo for **reproduci
 
 ### What you won't find in this tutorial
 
-In this tutoria, you won't learn how to program in Python. 
+In this tutorial, you won't learn how to program in Python. 
 If you are looking for a quick tutorial on Python programming, maybe this is the tutorial for you: 
 [Python Programming Tutorial](https://github.com/leriomaggio/python-tutorial)
 
@@ -81,5 +81,5 @@ Additional Books for further readings:
 
 ## Credits and Acknowledgements
 
-Some of the material included in this repository has been created by adapting the materils in the **Python-ML-Course** repository by **luisPinedo**. 
+Some of the material included in this repository has been created by adapting the materials in the **Python-ML-Course** repository by **luisPinedo**. 
 Original versions available here: [https://github.com/luisPinedo/python-ml-course]()
